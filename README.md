@@ -3,3 +3,4 @@
  
  Different from the another DT editable table, users can just double click to edit cells they want. If they accidentally edit cells before save, just click reset button. When it is ready, just click "save" button to permanently save the edited table. 
  
+ ![demo](demo.gif)
